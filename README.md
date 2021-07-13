@@ -15,11 +15,18 @@ Para isso iremos utilizar Node.js, Express e MongoDB (um banco de dados). Inicia
   - [x]  Criando os métodos de criar e listar dados do banco
   - [x]  Utilizando o Postman
   - [x]  Conclusão
-- [ ] Parte 2: melhorando nossa criação e listagem de dados
+- [x] Parte 2: melhorando nossa criação e listagem de dados
   - [x] Retornando somente os dados que desejamos exibir
   - [x] Melhorando nossa organização de código com repository pattern
-  - [ ] Validando entradas de dados
-  - [ ] Conclusão
+  - [x] Validando entradas de dados
+  - [x] Conclusão
+
+# Próximos passos
+Sinta-se a vontade para contribuir ;)
+
+- Criar uma função de deletar menções
+- Criar uma função de atualizar menções
+- Subir nossa API em um serviço de hospedagem
 
 # Tecnologias
 
