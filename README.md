@@ -16,8 +16,8 @@ Para isso iremos utilizar Node.js, Express e MongoDB (um banco de dados). Inicia
   - [x]  Utilizando o Postman
   - [x]  Conclusão
 - [ ] Parte 2: melhorando nossa criação e listagem de dados
-  - [ ] Retornando somente os dados que desejamos exibir
-  - [ ] Melhorando nossa organização de código com repository pattern
+  - [x] Retornando somente os dados que desejamos exibir
+  - [x] Melhorando nossa organização de código com repository pattern
   - [ ] Validando entradas de dados
   - [ ] Conclusão
 
